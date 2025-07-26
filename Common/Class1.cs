@@ -2,5 +2,5 @@
 
 public class Class1
 {
-    public int Version1 { get; set; }
+    public int Version2 { get; set; }
 }
